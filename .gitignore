@@ -6,3 +6,4 @@ obj
 *.user
 *.build-res
 _ReSharper*
+.vs
